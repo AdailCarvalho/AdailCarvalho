@@ -5,7 +5,7 @@ I'm a Software Engineer that's been working for over 8 years with Software Devel
 
 ## I'm currently working with... (2021)
 
-| Areas | Technologies | Weekly Contact | References |
+| Areas | Technologies | Weekly Usage | References |
 | :---         | :---         | :---       | :---       |
 | Data Warehouse | PostgreSQL | :star::star::star::star::star:| ~ |
 | ETL | Pentaho Data Integration | :star::star::star::star:| ~ |
@@ -16,7 +16,7 @@ I'm a Software Engineer that's been working for over 8 years with Software Devel
 
 ## And currently studying / reviewing... (2021)
 
-| Areas | Technologies | Weekly Usage / Contact | References |
+| Areas | Technologies | Weekly Usage | References |
 | :---         | :---         | :---       | :---        |
 | Frontend | Angular 12 | :star::star::star:|  |
 | BigData | Apache Kafka | :star::star::star::star::star:| [kafkalibrary-producer](https://github.com/AdailCarvalho/kafkalibrary-producer) | 
