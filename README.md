@@ -3,7 +3,7 @@
 
 I'm a Software Engineer that's been working for over 8 years with Software Development focused on WebServices, Big Data and Business Intelligence solutions.
 
-## I'm currently working with... (2021)
+## I'm currently working with...
 
 | Areas | Technologies | Weekly Usage | References |
 | :---         | :---         | :---       | :---       |
@@ -14,13 +14,13 @@ I'm a Software Engineer that's been working for over 8 years with Software Devel
 | Backend |  Java 8 / 11, Spring Framework <br > | :star::star::star::star::star: | ~ |
 | Others | Gradle, Maven, Git, <br > Jenkins, Bash | :star::star::star::star::star:| ~ |
 
-## And currently studying / reviewing... (2021)
+## And currently studying / reviewing...
 
 | Areas | Technologies | Weekly Usage | References |
 | :---         | :---         | :---       | :---        |
 | Frontend | Angular 12 | :star::star::star:|  |
 | BigData | Apache Kafka | :star::star::star::star::star:| [kafkalibrary-producer](https://github.com/AdailCarvalho/kafkalibrary-producer) | 
-| Data Science | R, Pandas, Linear Regression, <br > Classification | :star::star::star: | [LinearRegressionStepByStep](https://www.kaggle.com/almaak/linearregressionstepbystep)|
+| Data Science | R, Pandas, Linear Regression, <br > Classification | :star::star::star: | [LinearRegressionStepByStep](https://www.kaggle.com/almaak/linearregressionstepbystep) <br > [Classification Techniques for Opinion Analysis](https://www.repositoriobib.ufc.br/000017/0000179f.pdf) |
 
 ## Achievements
 
