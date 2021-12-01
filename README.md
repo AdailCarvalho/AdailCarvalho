@@ -8,7 +8,7 @@ I'm a Software Engineer that's been working for over 8 years with Software Devel
 | Areas | Technologies | Weekly Usage | References |
 | :---         | :---         | :---       | :---       |
 | Data Warehouse | PostgreSQL | :star::star::star::star::star:| ~ |
-| ETL | Pentaho Data Integration | :star::star::star::star:| ~ |
+| BigData | Pentaho Data Integration, <br > ElasticSearch, <br > Apache Kafka | :star::star::star::star:| ~ |
 | Cloud | AWS EC2, AWS S3, AWS RDS, <br > AWS IAM, AWS Lambda | :star::star::star::star::star:| ~ |
 | Frontend | JS, JQuery, HTML, CSS | :star::star::star: | ~ |
 | Backend |  Java 8 / 11, Spring Framework <br > | :star::star::star::star::star: | ~ |
